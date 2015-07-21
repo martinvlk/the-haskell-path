@@ -13,30 +13,13 @@ A roadmap for learning functional programming with Haskell - and beyond.
 1. Main Resources
 -----------------
 
-+-----------------------------+----------------------------------------+
-| Name                        | URL                                    |
-+=============================+========================================+
-| Recommended Path            | [github...bitemyapp/learnhaskell][1.1] |
-| for learning Haskell        |                                        |
-+-----------------------------+----------------------------------------+
-| "CIS 194: Introduction      | [seas.upenn.edu/~cis194/spring13][1.2] |
-|  to Haskell (Spring 2013)"  |                                        |
-|  course                     |                                        |
-+-----------------------------+----------------------------------------+
-| NICTA FP course             | <https://github.com/NICTA/course>      |
-+-----------------------------+----------------------------------------+
-| Haskell Programming         | <http://haskellbook.com/>              |
-| from first principles (book)|                                        |
-+-----------------------------+----------------------------------------+
-| CS240h: Functional Systems  | [...scs.stanford.edu/11au-cs240h][1.3] |
-| in Haskell                  |                                        |
-+-----------------------------+----------------------------------------+
-| SICP - Structure and        | <https://mitpress.mit.edu/sicp/>       |
-| Interpretation of Computer  |                                        |
-| Programs                    |                                        |
-+-----------------------------+----------------------------------------+
-| Software Foundations        | [https://www.cis.upenn.edu/...][1.4]   |
-+-----------------------------+----------------------------------------+
+*  Recommended Path for learning Haskell ([github...bitemyapp/learnhaskell][1.1])
+* "CIS 194: Introduction to Haskell (Spring 2013)" course ([seas.upenn.edu/~cis194/spring13][1.2])
+* NICTA FP course (<https://github.com/NICTA/course>)
+* Haskell Programming from first principles - book (<http://haskellbook.com>)
+* CS240h: Functional Systems in Haskell ([...scs.stanford.edu/11au-cs240h][1.3])
+* SICP - Structure and Interpretation of Computer Programs (<https://mitpress.mit.edu/sicp>)
+* Software Foundations ([https://www.cis.upenn.edu/...][1.4])
 
 [1.1]: https://github.com/bitemyapp/learnhaskell
 [1.2]: https://www.seas.upenn.edu/~cis194/spring13
@@ -54,21 +37,10 @@ A roadmap for learning functional programming with Haskell - and beyond.
 
 ###Adventure with Types in Haskell - Simon Peyton Jones lectures
 
-+---------+-------------------------------------------------+
-| Lecture | Links (!!! LARGE FILES TO DOWNLOAD)             |
-+=========+=================================================+
-| 1       | [part 1][3.1] * [part 2][3.2] * [part 3][3.3]   |
-|         | <br>[Youtube][3.12]                             |
-+---------+-------------------------------------------------+
-| 2       | [part 1][3.4] * [part 2][3.5]                   |
-|         | <br>[Youtube][3.13]                             |
-+---------+-------------------------------------------------+
-| 3       | [part 1][3.6] * [part 2][3.7] * [part 3][3.8]   |
-|         | <br>[Youtube][3.14]                             |
-+---------+-------------------------------------------------+
-| 4       | [part 1][3.9] * [part 2][3.10] * [part 3][3.11] |
-|         | <br>[Youtube(broken??)][3.15]                   |
-+---------+-------------------------------------------------+
+* Lecture 1 ([part 1][3.1] * [part 2][3.2] * [part 3][3.3] | [Youtube][3.12])
+* Lecture 2 ([part 1][3.4] * [part 2][3.5] | [Youtube][3.13])
+* Lecture 3 ([part 1][3.6] * [part 2][3.7] * [part 3][3.8] | [Youtube][3.14]
+* Lecture 4 ([part 1][3.9] * [part 2][3.10] * [part 3][3.11] | [Youtube(broken??)][3.15])
 
 [3.1]: https://www.cs.uoregon.edu/research/summerschool/summer13/lectures/jones1-1.mp4
 [3.2]: https://www.cs.uoregon.edu/research/summerschool/summer13/lectures/jones1-2.mp4
@@ -88,3 +60,4 @@ A roadmap for learning functional programming with Haskell - and beyond.
 
 4. Podcasts
 -----------
+[TBD]
